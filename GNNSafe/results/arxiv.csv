@@ -1,0 +1,36 @@
+Model gcn
+OOD Test 1 Final AUROC: 61.07 OOD Test 1 Final AUPR: 69.86 OOD Test 1 Final FPR: 92.01
+OOD Test 2 Final AUROC: 62.26 OOD Test 2 Final AUPR: 64.95 OOD Test 2 Final FPR: 91.36
+OOD Test 3 Final AUROC: 66.82 OOD Test 3 Final AUPR: 90.87 OOD Test 3 Final FPR: 90.36
+OOD Test Averaged Final AUROC: 63.39 OOD Test Averaged Final AUPR: 75.23 OOD Test Averaged Final FPR: 91.24
+IND Test Score: 53.60
+
+Model_mlayer gcn
+OOD Test 1 Final AUROC: 62.87 OOD Test 1 Final AUPR: 71.30 OOD Test 1 Final FPR: 91.08
+OOD Test 2 Final AUROC: 64.04 OOD Test 2 Final AUPR: 66.63 OOD Test 2 Final FPR: 90.37
+OOD Test 3 Final AUROC: 68.57 OOD Test 3 Final AUPR: 91.40 OOD Test 3 Final FPR: 89.00
+OOD Test Averaged Final AUROC: 65.16 OOD Test Averaged Final AUPR: 76.44 OOD Test Averaged Final FPR: 90.15
+IND Test Score: 53.64
+
+Model_slayer gcn
+OOD Test 1 Final AUROC: 67.04 OOD Test 1 Final AUPR: 75.66 OOD Test 1 Final FPR: 88.83
+OOD Test 2 Final AUROC: 68.23 OOD Test 2 Final AUPR: 71.71 OOD Test 2 Final FPR: 87.28
+OOD Test 3 Final AUROC: 78.35 OOD Test 3 Final AUPR: 94.70 OOD Test 3 Final FPR: 82.30
+OOD Test Averaged Final AUROC: 71.20 OOD Test Averaged Final AUPR: 80.69 OOD Test Averaged Final FPR: 86.14
+IND Test Score: 53.64
+
+Model_oodloss gcn
+OOD Test 1 Final AUROC: 62.10 OOD Test 1 Final AUPR: 70.51 OOD Test 1 Final FPR: 91.50
+OOD Test 2 Final AUROC: 63.33 OOD Test 2 Final AUPR: 65.80 OOD Test 2 Final FPR: 90.73
+OOD Test 3 Final AUROC: 67.78 OOD Test 3 Final AUPR: 91.13 OOD Test 3 Final FPR: 89.54
+OOD Test Averaged Final AUROC: 64.40 OOD Test Averaged Final AUPR: 75.81 OOD Test Averaged Final FPR: 90.59
+IND Test Score: 53.72
+
+
+Model_Final gcn
+OOD Test 1 Final AUROC: 66.87 OOD Test 1 Final AUPR: 75.39 OOD Test 1 Final FPR: 89.19
+OOD Test 2 Final AUROC: 69.12 OOD Test 2 Final AUPR: 72.33 OOD Test 2 Final FPR: 87.80
+OOD Test 3 Final AUROC: 78.85 OOD Test 3 Final AUPR: 94.92 OOD Test 3 Final FPR: 83.00
+OOD Test Averaged Final AUROC: 71.61 OOD Test Averaged Final AUPR: 80.88 OOD Test Averaged Final FPR: 86.66
+IND Test Score: 54.18
+

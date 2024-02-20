@@ -1,0 +1,20 @@
+Model gcn
+OOD Test 1 Final AUROC: 58.49 OOD Test 1 Final AUPR: 33.26 OOD Test 1 Final FPR: 86.02
+IND Test Score: 100.00
+
+Model_mlayer gcn
+OOD Test 1 Final AUROC: 58.52 OOD Test 1 Final AUPR: 33.28 OOD Test 1 Final FPR: 85.94
+IND Test Score: 100.00
+
+Model_slayer gcn
+OOD Test 1 Final AUROC: 49.88 OOD Test 1 Final AUPR: 30.10 OOD Test 1 Final FPR: 95.39
+IND Test Score: 100.00
+
+Model_oodloss gcn
+OOD Test 1 Final AUROC: 57.46 OOD Test 1 Final AUPR: 32.82 OOD Test 1 Final FPR: 87.51
+IND Test Score: 100.00
+
+Model_Final gcn
+OOD Test 1 Final AUROC: 52.47 OOD Test 1 Final AUPR: 30.08 OOD Test 1 Final FPR: 88.51
+IND Test Score: 100.00
+
